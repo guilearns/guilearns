@@ -18,4 +18,6 @@
   
   <img align="center" alt="guilearns-Godot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
   
+  <img align="center" alt="guilearns-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  
 </div>
